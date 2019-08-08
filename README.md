@@ -1,7 +1,7 @@
 # android-rx-samples
 How to use reactive extensions in Android (RxJava)
 
-####Examples of operators usage:
+#### Examples of operators usage:
 - .from()
 - .all()
 - .takeUntil()
